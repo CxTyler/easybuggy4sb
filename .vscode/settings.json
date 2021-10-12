@@ -1,4 +1,7 @@
 {
     "jira-plugin.workingProject": "",
-    "github.gitAuthentication": false
+    "github.gitAuthentication": false,
+    "java.completion.maxResults": 1,
+    "problems.decorations.enabled": false,
+    "problems.autoReveal": false
 }
